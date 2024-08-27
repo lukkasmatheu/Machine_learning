@@ -1,0 +1,79 @@
+{
+    "Press\u00e3o": {
+        "baixa": {
+            "Respira\u00e7\u00e3o": {
+                "baixa": {
+                    "Pulso": {
+                        "baixa": 2,
+                        "normal": 2,
+                        "alto": 2
+                    }
+                },
+                "normal": {
+                    "Pulso": {
+                        "baixa": 2,
+                        "normal": 2,
+                        "alto": 2
+                    }
+                },
+                "alto": {
+                    "Pulso": {
+                        "baixa": 2,
+                        "normal": 3,
+                        "alto": 3
+                    }
+                }
+            }
+        },
+        "normal": {
+            "Pulso": {
+                "baixa": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 2,
+                        "normal": 3,
+                        "alto": 3
+                    }
+                },
+                "normal": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 3,
+                        "normal": 3,
+                        "alto": 4
+                    }
+                },
+                "alto": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 2,
+                        "normal": 3,
+                        "alto": 3
+                    }
+                }
+            }
+        },
+        "alto": {
+            "Pulso": {
+                "baixa": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 2,
+                        "normal": 2,
+                        "alto": 2
+                    }
+                },
+                "normal": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 2,
+                        "normal": 2,
+                        "alto": 3
+                    }
+                },
+                "alto": {
+                    "Respira\u00e7\u00e3o": {
+                        "baixa": 1,
+                        "normal": 2,
+                        "alto": 2
+                    }
+                }
+            }
+        }
+    }
+}
